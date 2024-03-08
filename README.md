@@ -1,4 +1,4 @@
-1. Build a Data Model using the Sheets in the Excel File
+1. Build a Data Model using the Sheets in the Zomato_Raw Excel File
 2. Build a Calendar Table using the Columns Datekey_Opening ( Which has Dates from Minimum Dates and Maximum Dates)
   Add all the below Columns in the Calendar Table using the Formulas.
    A.Year
